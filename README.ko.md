@@ -69,4 +69,3 @@ MyGomi는 사는 지역을 설정하기만 하면 **수거일 캘린더·품목�
 
 - 팀 레포지토리 (백엔드): https://github.com/MyGomiProject/mygomi-backend
 - API 명세: https://github.com/MyGomiProject/mygomi-backend/blob/main/FRONTEND_API_DOCS.md
-<!-- TODO: 프론트엔드 레포지토리가 있으면 추가 -->

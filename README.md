@@ -69,4 +69,3 @@ MyGomi は、住んでいる地域を設定するだけで **収集日カレン�
 
 - チームリポジトリ（バックエンド）: https://github.com/MyGomiProject/mygomi-backend
 - API 仕様: https://github.com/MyGomiProject/mygomi-backend/blob/main/FRONTEND_API_DOCS.md
-<!-- TODO: フロントエンドのリポジトリがあれば追加 -->
